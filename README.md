@@ -14,7 +14,7 @@ This is a project that I created in my free time for a fictional JavaScript fram
   <li>Brackets.io</li>
 </ul>
 
-# Screencaps
+# Screencap
 
 <img src="cleanjs_preview.png">
 
