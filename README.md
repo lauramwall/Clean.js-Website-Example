@@ -16,7 +16,7 @@ This is a project that I created in my free time for a fictional JavaScript fram
 
 # Screencap
 
-<img src="cleanjs_preview.png">
+<img src="cleanjs_preview.png"> 
 
 # Credits
 
